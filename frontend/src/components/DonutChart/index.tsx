@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { useEffect, useState } from 'react';
 import Chart from 'react-apexcharts';
-import { SaleSum } from 'types/Sale';
+import { SaleSum } from 'types/sale';
 import { BASE_URL } from 'utils/request';
 
 type ChartData = {
@@ -23,7 +23,7 @@ const DonutChart = () => {
             setChartData({ labels: myLabels, series: mySeries})
          });
     }, []);
-   
+    
     const options = {
         legend: {
             show: true
