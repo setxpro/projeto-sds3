@@ -5,7 +5,7 @@
 ### ☄️ Descrição ☄️
 
 <p>
-   Analise o desempenho das suas vendas por diferentes perspectivas<br/>
+## Analise o desempenho das suas vendas por diferentes perspectivas.<br/>
    Esta aplicação consiste em exibir um dashboard a partir de dados<br/>
    fornecidos por um back end construído com Spring Boot.<br/>
 </p>
