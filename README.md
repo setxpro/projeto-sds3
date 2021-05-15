@@ -13,7 +13,7 @@
 - ReactJs
 - Spring boot
 
-## 🌌 Database 🌌
+### 🌌 Database 🌌
 - PostgreSQL
 
 ## 💾 Clone
