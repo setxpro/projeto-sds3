@@ -1,4 +1,4 @@
-### Bem vindo a DS vendas
+### Bem-vindo a DS vendas
 
 ### Um projeto desenvolvido durante a semana Spring React da DevSuperior
 
@@ -34,7 +34,7 @@ yarn start
 
 👤 **Patrick Anjos**
 
-* Website: https://moveit-two-ecru.vercel.app/
+* Website: https://patrick-dsvendas.netlify.app/
 * Github: [@setxpro](https://github.com/setxpro)
 
-Durante a NLW v.4 🚀. <br>
+Durante a Semana [@devsuperios.ig](https://www.instagram.com/devsuperior.ig/) 🚀. <br>
