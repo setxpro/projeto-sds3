@@ -2,6 +2,12 @@
 
 ### Um projeto desenvolvido durante a semana Spring React da DevSuperior
 
+### ☄️ Descrição ☄️
+
+<p>
+   Analise o desempenho das suas vendas por diferentes perspectivas<br/>
+   Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos por um back end construído com Spring Boot.<br/>
+</p>
 
 <div>
    <img src="./desc/dsvendas.jpg" width="100%">
