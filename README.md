@@ -13,6 +13,9 @@
 - ReactJs
 - Spring boot
 
+## Database
+- PostgreSQL
+
 ## 💾 Clone
 
 ```sh
