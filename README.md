@@ -16,7 +16,7 @@
 ## 💾 Clone
 
 ```sh
-git clone https://github.com/setxpro/projeto-sds3.git
+https://github.com/setxpro/projeto-sds3.git
 ```
 
 ## 🗳 Install
