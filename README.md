@@ -1,7 +1,5 @@
 ### Bem-vindo a DS vendas
 
-### Um projeto desenvolvido durante a semana Spring React da DevSuperior
-
 ### ☄️ Descrição ☄️
 
 <p>
@@ -47,4 +45,3 @@ yarn start
 * Website: https://patrick-dsvendas.netlify.app/
 * Github: [@setxpro](https://github.com/setxpro)
 
-Evento promovido pela escola DevSuperior:  [@devsuperios.ig](https://www.instagram.com/devsuperior.ig/) 🚀. <br>
