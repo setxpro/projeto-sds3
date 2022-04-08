@@ -2,6 +2,8 @@
 
 ### ☄️ Descrição ☄️
 
+* Website: https://patrick-dsvendas.netlify.app/
+
 <p>
    Analise o desempenho das suas vendas por diferentes perspectivas.<br/>
    Esta aplicação consiste em exibir um dashboard a partir de dados<br/>
@@ -42,6 +44,5 @@ yarn start
 
 👤 **Patrick Anjos**
 
-* Website: https://patrick-dsvendas.netlify.app/
 * Github: [@setxpro](https://github.com/setxpro)
 
